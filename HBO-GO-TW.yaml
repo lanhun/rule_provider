@@ -1,0 +1,8 @@
+payload:
+  # > HBO GO TW
+  - PROCESS-NAME,tw.hbo.hbogo
+  - DOMAIN-SUFFIX,hbogoasia.com
+  - DOMAIN,api2.hbogoasia.com
+  - DOMAIN,hbogoprod-vod.akamaized.net
+  - DOMAIN,dai3fd1oh325y.cloudfront.net
+  - DOMAIN,hbolb.onwardsmg.com
